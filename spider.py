@@ -1,4 +1,4 @@
-# shoutout ChokoPIkk 
+# shoutout Ch0c4p1kk for sharing the progress bar library <3 
 
 import argparse
 import json
